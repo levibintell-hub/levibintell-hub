@@ -28,6 +28,12 @@ En este perfil estaré subiendo proyectos de práctica, ejercicios, aplicaciones
 - GitHub: [leviB](https://github.com/levibintell-hub)
 - Correo: levibintell@gmail.com
 
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+<!--RECENT_SECTION:activity-->
+
 ---
 
 Gracias por visitar mi perfil.
